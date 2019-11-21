@@ -6,6 +6,16 @@ namespace BinaryTree.models
 {
     class easdföjysdkf
     {
+        private int _count;
+
+        public int Count
+        {
+            get
+            {
+                return _count;
+            }
+        }
+
         public void Add(int? itemToAdd, BinaryTreeItem actItem = null)
         {
             BinaryTreeItem newItem = new BinaryTreeItem(itemToAdd, 1, null, null);
