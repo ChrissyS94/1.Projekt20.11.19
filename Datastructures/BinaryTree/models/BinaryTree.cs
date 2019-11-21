@@ -31,6 +31,15 @@ namespace BinaryTreeApp.models
             }
         }
 
+        public int Count125
+        {
+            get
+            {
+                return _count;
+            }
+        }
+      
+
 
         public void Add(int? itemToAdd, BinaryTreeItem actItem = null)
         {
