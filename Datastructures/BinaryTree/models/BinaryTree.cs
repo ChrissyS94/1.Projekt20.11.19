@@ -30,24 +30,6 @@ namespace BinaryTreeApp.models
                 return _count;
             }
         }
-
-        
-        public int Count569
-        {
-            get
-            {
-                return _count;
-            }
-        }
-
-
-        public int Count125
-        {
-            get
-            {
-                return _count;
-            }
-        }
       
 
 
