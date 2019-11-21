@@ -32,7 +32,7 @@ namespace BinaryTreeApp.models
         }
 
         
-        public int Count
+        public int Count569
         {
             get
             {
