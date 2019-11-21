@@ -31,6 +31,16 @@ namespace BinaryTreeApp.models
             }
         }
 
+        
+        public int Count569
+        {
+            get
+            {
+                return _count;
+            }
+        }
+
+
         public int Count125
         {
             get
